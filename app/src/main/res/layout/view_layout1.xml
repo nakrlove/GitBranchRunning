@@ -7,4 +7,10 @@
         android:layout_width="100dp"
         android:layout_height="wrap_content"
         android:text="hotfixed layout--3"/>
+
+    <TextView
+        android:id="@+id/tv_msg2"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:text="hotfixed layout--3"/>
 </LinearLayout>
