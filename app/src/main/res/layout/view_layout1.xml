@@ -20,5 +20,5 @@
         android:layout_height="wrap_content"
         android:text="Button" />
 
-
+// 브렌치로 추가 작업해봄
 </LinearLayout>
