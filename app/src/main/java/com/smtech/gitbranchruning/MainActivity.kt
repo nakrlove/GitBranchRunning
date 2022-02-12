@@ -11,9 +11,6 @@ class MainActivity : AppCompatActivity() {
 
         //Git 2
         //Git 3
-        //Git 4
-        //Git 5
-        //Git 6
-        //Git 7
+
     }
 }
