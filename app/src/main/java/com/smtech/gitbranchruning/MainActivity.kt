@@ -9,11 +9,10 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         //Git 1
 
-        //Git 2--
+        //Git 2
         //Git 3
-        //Git 4
         //Git 5
-        //Git 6
-        //Git 7
+
+        //Git 4
     }
 }
